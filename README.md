@@ -1,8 +1,8 @@
-#roogue
+# roogue
 
-##Languages Primarily Interested In
+## Languages Primarily Interested In
 * Node.js
 * Python
-##Gotta Learn
+## Gotta Learn
 * HTML
 * CSS
