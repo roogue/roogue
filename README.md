@@ -8,5 +8,5 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=roogue&label=Profile%20views&color=0e75b6&style=flat-square" alt="roogue" />
   <br>
-  <img src="./picture/hutao.png" alt="My waifu"/>
+  <img src="./hutao.png" alt="My waifu"/>
 </div>
